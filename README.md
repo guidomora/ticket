@@ -15,4 +15,4 @@
 ![](https://firebasestorage.googleapis.com/v0/b/portafolio-ce203.appspot.com/o/desks.png?alt=media&token=f0653e39-ab71-4f89-8ad1-fcc41ac03e60&_gl=1*mnhc71*_ga*MTUwMTk1MTYzOC4xNjc2MjkxMTA3*_ga_CW55HF8NVT*MTY5NjQ1NzE0Mi4xMjMuMS4xNjk2NDU3MjA4LjU0LjAuMA..)
 
 ## Public view:
-![](https://firebasestorage.googleapis.com/v0/b/portafolio-ce203.appspot.com/o/desks.png?alt=media&token=f0653e39-ab71-4f89-8ad1-fcc41ac03e60&_gl=1*mnhc71*_ga*MTUwMTk1MTYzOC4xNjc2MjkxMTA3*_ga_CW55HF8NVT*MTY5NjQ1NzE0Mi4xMjMuMS4xNjk2NDU3MjA4LjU0LjAuMA..)
+![](https://firebasestorage.googleapis.com/v0/b/portafolio-ce203.appspot.com/o/Untitled.png?alt=media&token=b3e8857d-08cb-4783-b1bd-334b9439be21&_gl=1*ay4llw*_ga*MTUwMTk1MTYzOC4xNjc2MjkxMTA3*_ga_CW55HF8NVT*MTY5NzU4NTExNy4xMjYuMS4xNjk3NTg1MTQ1LjMyLjAuMA..)
